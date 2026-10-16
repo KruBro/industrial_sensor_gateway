@@ -1,0 +1,7 @@
+../Core/Src/modbus.c:8:10:modbus_build_read_request	1
+../Core/Src/modbus.c:25:10:modbus_build_write_coil_request	2
+../Core/Src/modbus.c:43:10:modbus_build_read_response	4
+../Core/Src/modbus.c:68:10:modbus_build_exception	1
+../Core/Src/modbus.c:82:5:modbus_validate_frame	4
+../Core/Src/modbus.c:94:5:modbus_parse_request	5
+../Core/Src/modbus.c:114:10:mb_handle_request	18

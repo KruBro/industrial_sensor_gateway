@@ -1,0 +1,7 @@
+../Core/Src/modbus.c:8:10:modbus_build_read_request	32	static
+../Core/Src/modbus.c:25:10:modbus_build_write_coil_request	24	static
+../Core/Src/modbus.c:43:10:modbus_build_read_response	32	static
+../Core/Src/modbus.c:68:10:modbus_build_exception	24	static
+../Core/Src/modbus.c:82:5:modbus_validate_frame	24	static
+../Core/Src/modbus.c:94:5:modbus_parse_request	32	static
+../Core/Src/modbus.c:114:10:mb_handle_request	296	static
